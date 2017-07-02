@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7F886806-0BB3-48CF-B3A7-3C4EB10AB046}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.3.1-2/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="ProblemExample/Abstractions/IBasePathProvider.cs" Line="6" Column="33" />
+      <File FileName="Droid/Providers/DroidBasePathProvider.cs" Line="14" Column="5" />
+      <File FileName="Droid/MainActivity.cs" Line="27" Column="60" />
+      <File FileName="ProblemExample/App.xaml.cs" Line="1" Column="7" />
+      <File FileName="DataAccessTest/MyClass.cs" Line="6" Column="25" />
+      <File FileName="DataAccessTest/EF/EFContext.cs" Line="5" Column="28" />
+      <File FileName="DataAccessTest/EF/Model/SampleEntity.cs" Line="4" Column="21" />
+      <File FileName="DataAccessTest/TestDatabase.cs" Line="4" Column="25" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.3.1-2/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1391" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProblemExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40B31E10-D701-4B1D-991E-651102FB747F" />
+  <MonoDevelop.Ide.ItemProperties.ProblemExample.Droid PreferredExecutionTarget="Android.Nexus_5_API_25" />
+  <MultiItemStartupConfigurations />
+</Properties>
